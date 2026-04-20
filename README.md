@@ -17,7 +17,7 @@ A Retrieval-Augmented Generation system built with Node.js and TypeScript.
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/rag-pipeline
+git clone https://github.com/mohdomi/rag-pipeline
 cd rag-pipeline
 npm install
 cp .env.example .env  # add your Gemini API key
